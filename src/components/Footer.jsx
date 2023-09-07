@@ -2,7 +2,7 @@ import React from 'react'
 
 const Footer = () => {
   return (
-    <div className="footer-box">
+    <div className="hidden footer-box sm:block">
       <div className="footer-wrapper">
         <footer className="footer">
           <div className="frame">

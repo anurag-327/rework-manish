@@ -8,7 +8,7 @@
   box-sizing: border-box;
 }
 
-/* Navbar */
+
 
 .sticky {
   background-color: #ffffffa9;
@@ -18,18 +18,15 @@
   backdrop-filter: blur(15px);
 }
 
-/* Hero */
+
 
 .backdrops {
   border-radius: 10.705px;
   background: rgba(255, 255, 255, 0.16);
   backdrop-filter: blur(13.3px);
   z-index: 10;
-  border-left: 2px solid purple;
   height: 82.962px;
   width: 300px;
-  border-top: 2px solid purple;
-  border-bottom: 2px solid purple;
 }
 
 .img_div {
